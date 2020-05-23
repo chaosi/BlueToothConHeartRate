@@ -1,0 +1,10 @@
+E:\Visual studio projects\BTCon\BTCon\BTCon\bin\Debug\BTCon.exe
+E:\Visual studio projects\BTCon\BTCon\BTCon\bin\Debug\BTCon.exe.config
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.Form1.resources
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.Properties.Resources.resources
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.csproj.GenerateResource.cache
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.csproj.CoreCompileInputs.cache
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.exe
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.pdb
+E:\Visual studio projects\BTCon\BTCon\BTCon\bin\Debug\BTCon.pdb
+E:\Visual studio projects\BTCon\BTCon\BTCon\obj\Debug\BTCon.csprojAssemblyReference.cache
